@@ -1,0 +1,31 @@
+_repo: The-school-and-society_74376
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Dewey, John
+    birthdate: 1859
+    deathdate: 1952
+    gutenberg_agent_id: '446'
+    url: http://www.gutenberg.org/2009/agents/446
+    wikipedia: https://en.wikipedia.org/wiki/John_Dewey
+description: ''
+gutenberg_issued: '2024-09-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74376'
+language: en
+pgterms:marc904: https://archive.org/details/cu31924100610751/page/n7/mode/2up
+pgterms:marc905: 20231105002707dewey
+pgterms:marc906: '1899'
+pgterms:marc907: US
+production_note: Lukas Bystricky and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aChicago, IL :$bThe University of Chicago Press, $c1899, copyright
+  1900, copyright 1915, reprint 1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The school and society
+url: http://www.gutenberg.org/ebooks/74376
